@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Connect4</id>
+    <version>1.0.0</version>
+    <authors>keith Galli</authors>
+    <owners>keith Galli</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <description>Library to Log text to console</description>
+    <tags>Logging, Logger, Log</tags>
+    <repository url="https://github.com/GauravThapa54/Connect4-Game" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\gary_\Desktop\Python_Game\Connect4-Python-master\bin\Debug\netstandard2.0\Connect4-Python-master.dll" target="lib\netstandard2.0\Connect4-Python-master.dll" />
+  </files>
+</package>

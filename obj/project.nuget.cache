@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "GiMZbyOwvSNDaXjPtxx5nb+eo+81vBBWNMtyZ6WVFsi9lhWuga5WxeErJ3HeqTdygiEIk4QCjINgI7ZUzck89A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gary_\\Desktop\\Python_Game\\Connect4-Python-master\\Connect4-Python-master.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gary_\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\gary_\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

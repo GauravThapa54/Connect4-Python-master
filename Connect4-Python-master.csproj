@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+      <PackageID>Connect4</PackageID>
+      <Version>1.00</Version>
+      <Authors>keith Galli</Authors>
+      <Description>Library to Log text to console</Description>
+      <PackageLicenseExpression>MIT</PackageLicenseExpression>
+      <RepositoryUrl>https://github.com/GauravThapa54/Connect4-Game</RepositoryUrl>
+      <PackageTags>Logging, Logger, Log</PackageTags>
+    <RootNamespace>Connect4_Python_master</RootNamespace>
+  </PropertyGroup>
+
+</Project>

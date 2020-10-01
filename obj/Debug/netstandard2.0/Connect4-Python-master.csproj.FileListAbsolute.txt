@@ -1,0 +1,9 @@
+C:\Users\gary_\Desktop\Python_Game\Connect4-Python-master\bin\Debug\netstandard2.0\Connect4-Python-master.deps.json
+C:\Users\gary_\Desktop\Python_Game\Connect4-Python-master\bin\Debug\netstandard2.0\Connect4-Python-master.dll
+C:\Users\gary_\Desktop\Python_Game\Connect4-Python-master\bin\Debug\netstandard2.0\Connect4-Python-master.pdb
+C:\Users\gary_\Desktop\Python_Game\Connect4-Python-master\obj\Debug\netstandard2.0\Connect4-Python-master.csprojAssemblyReference.cache
+C:\Users\gary_\Desktop\Python_Game\Connect4-Python-master\obj\Debug\netstandard2.0\Connect4-Python-master.AssemblyInfoInputs.cache
+C:\Users\gary_\Desktop\Python_Game\Connect4-Python-master\obj\Debug\netstandard2.0\Connect4-Python-master.AssemblyInfo.cs
+C:\Users\gary_\Desktop\Python_Game\Connect4-Python-master\obj\Debug\netstandard2.0\Connect4-Python-master.csproj.CoreCompileInputs.cache
+C:\Users\gary_\Desktop\Python_Game\Connect4-Python-master\obj\Debug\netstandard2.0\Connect4-Python-master.dll
+C:\Users\gary_\Desktop\Python_Game\Connect4-Python-master\obj\Debug\netstandard2.0\Connect4-Python-master.pdb
